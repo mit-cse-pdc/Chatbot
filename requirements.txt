@@ -1,0 +1,12 @@
+streamlit
+pymilvus
+sentence-transformers
+pypdf2
+langchain-community
+langchain-huggingface
+langchain-milvus
+python-docx
+openai
+unstructured
+pandas
+openpyxl
